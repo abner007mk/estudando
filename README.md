@@ -1,1 +1,1 @@
-# estudando
+Escreva("ola.mundo")
